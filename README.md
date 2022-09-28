@@ -18,3 +18,10 @@ Your tests must be running green on Github Actions.
 ## Documentation
 ![](Images/Lab-07-1.png)
 ![](Images/Lab-07-2.png)
+
+## Routing
+Run "npm test" in the terminal to test routes. You can also test these routes in thunder client:
+/signup
+/signin
+/users
+/secret
